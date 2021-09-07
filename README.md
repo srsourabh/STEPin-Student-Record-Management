@@ -59,6 +59,8 @@ Folder	Description
 6_ImagesAndVideos	  - Project output and videos
 -----------------------------------------------------------------
 
+ ********************
+
 UML Diagram
 --
 

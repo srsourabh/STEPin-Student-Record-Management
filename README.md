@@ -59,4 +59,11 @@ Folder	Description
 6_ImagesAndVideos	  - Project output and videos
 -----------------------------------------------------------------
 
+UML Diagram
+--
+
+![UML Diagram for Student Record Management  vpd](https://user-images.githubusercontent.com/42851428/132399449-866144bb-f361-4988-a9be-ec9d9a58e341.png)
+
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 

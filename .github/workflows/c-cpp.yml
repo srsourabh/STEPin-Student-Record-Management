@@ -2,9 +2,9 @@ name: C/C++ CI - Build Status
 
 on:
   push:
-    branches: [main]
+    branches: [master]
   pull_request:
-    branches: [main]
+    branches: [master]
 
 jobs:
   build:
@@ -13,4 +13,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Running the make file
-        run: make run
+        run: make build

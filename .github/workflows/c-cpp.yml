@@ -1,16 +1,19 @@
-name: C/C++ CI - Build Status
+name: Windows C/C++ CI
 
 on:
   push:
-    branches: [master]
+    branches: [ master ]
   pull_request:
-    branches: [master]
+    branches: [ master ]
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+
+    runs-on: windows-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - name: Running the make file
-        run: make build
+    - uses: actions/checkout@v2
+    - name: build
+      run: gcc main.c -o hello.exe
+    - name: Run
+      run: .\hello.exe

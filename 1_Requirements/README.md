@@ -32,3 +32,37 @@ Using simple methods admin can student record. One we add authenticate steps the
 Threats
 --
 If the admin forgot to add any of the value then learner's data will be improper. 
+
+-------------------------------------------------------------------------------------------------------------------------
+
+4 W's and 1 H
+--
+
+WHO
+--
+Only Admin can do the operations
+
+WHAT
+--
+The project is concerned about adding and manipulating the students records.
+
+WHEN
+--
+Whenever admin wants to add new record or do any operation on existing record
+
+WHY
+--
+It uses very simple steps to manage the data
+
+HOW
+--
+Implemented using structure, pointers, enum and other functionalities of C.
+Basic requirements that are very essential are:
+
+student data
+gcc compiler with a good system.
+
+Any of the two linux/windows.
+
+-------------------------------------------------------------------------------------------------------------------------
+

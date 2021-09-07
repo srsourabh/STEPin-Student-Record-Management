@@ -18,3 +18,6 @@ build : main.c
 run : build
 	./multifile.$(EXEC)
 
+doc: Doxyfile
+	doxygen $(call FixPath,./)Doxyfile
+

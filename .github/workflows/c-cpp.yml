@@ -13,4 +13,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Running the make file
-        run: gcc main.c
+        run: make build

@@ -66,3 +66,36 @@ Any of the two linux/windows.
 
 -------------------------------------------------------------------------------------------------------------------------
 
+HIGH LEVEL REQUIREMENTS :
+-------------------------------------------------------------------------------------------------------------------------
+
+
+
+| ID | Description     |       Category          |   Status  |
+| :-------- | :------- | :------------------------- | :--  |
+| HR01 | `User shall be able to add new learners record` | Technical| Implemented  |
+| HR02 | `User shall be able to View learners record` | Technical| Implemented  |
+| HR03 | `User shall be able to Search learners record` | Technical| Implemented  |
+| HR04 | `User shall be able to Modify learners record` | Technical| Implemented  |
+| HR05 | `User shall be able to delete learners record` | Technical| Implemented  |
+| HR06 | `User shall be able to authenticate learners record` | Technical| Future  |
+| HR07 | `User shall be able to sort learners record` | Technical| Future  |
+
+-------------------------------------------------------------------------------------------------------------------------
+
+LOW LEVEL REQUIREMENTS :
+--
+VALIDATION
+
+
+
+| ID | Functions     |       Description          |   Status  |
+| :-------- | :------- | :------------------------- | :--  |
+| LR01 | `isChoiceValid` | Check the choice number entered by the user is valid or not| Implemented  |
+
+-------------------------------------------------------------------------------------------------------------------------
+
+  
+
+
+  

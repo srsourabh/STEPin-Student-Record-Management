@@ -6,6 +6,8 @@ C Mini Project
 
 [![C/C++ CI - Build Status](https://github.com/srsourabh/STEPin-Student-Record-Management/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/srsourabh/STEPin-Student-Record-Management/actions/workflows/c-cpp.yml)
 
+[![Contribution Check - Git Inspector](https://github.com/srsourabh/STEPin-Student-Record-Management/actions/workflows/inspect.yml/badge.svg)](https://github.com/srsourabh/STEPin-Student-Record-Management/actions/workflows/inspect.yml)
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=srsourabh&show_icons=true)
 
 

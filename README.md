@@ -6,6 +6,8 @@ C Mini Project
 
 [![C/C++ CI - Build Status](https://github.com/srsourabh/STEPin-Student-Record-Management/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/srsourabh/STEPin-Student-Record-Management/actions/workflows/c-cpp.yml)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=srsourabh&show_icons=true)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This application is developed to manage the student records. An Admin can manage the data of all students. Admin can manage and also manipulate the data.

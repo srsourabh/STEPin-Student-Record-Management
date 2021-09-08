@@ -8,6 +8,8 @@ C Mini Project
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=srsourabh&show_icons=true)
 
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This application is developed to manage the student records. An Admin can manage the data of all students. Admin can manage and also manipulate the data.
